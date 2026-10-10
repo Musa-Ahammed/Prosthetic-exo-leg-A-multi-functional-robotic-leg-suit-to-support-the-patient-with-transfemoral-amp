@@ -1,0 +1,19 @@
+workbook,condition,axis,n,first_row,last_row,missing_within_span,non_numeric_cells,minimum,maximum,mean,sample_sd
+Position1.xlsx,Normal Person,X,247,4,250,0,0,-1.53,7.73,5.065182186,1.344604646
+Position1.xlsx,Normal Person,Y,260,4,263,0,0,-17.34,-3.49,-8.655846154,1.52661044
+Position1.xlsx,Normal Person,Z,260,4,263,0,0,-8.16,9.14,3.863346154,2.05050007
+Position1.xlsx,Our Subject,X,292,4,295,0,0,-0.98,6.24,2.266643836,0.932444799
+Position1.xlsx,Our Subject,Y,260,4,263,0,0,-14.71,-1.65,-6.583730769,1.058052194
+Position1.xlsx,Our Subject,Z,260,4,263,0,0,2.12,11.65,8.444807692,1.065170768
+Position1.xlsx,E- leg,X,247,4,250,0,0,8.2,13.53,9.081700405,0.406401449
+Position1.xlsx,E- leg,Y,259,4,262,0,0,-2.71,0.35,-0.397528958,0.341832831
+Position1.xlsx,E- leg,Z,258,4,261,0,0,2.79,6.71,4.789496124,0.686141398
+Position2.xlsx,Normal Person,X,257,4,260,0,0,-6.75,14.79,-1.985797665,1.629998156
+Position2.xlsx,Normal Person,Y,257,4,260,0,0,1.41,8.83,3.715642023,1.467592521
+Position2.xlsx,Normal Person,Z,257,4,260,0,0,6.39,14.87,11.20143969,0.913559674
+Position2.xlsx,Our Subject,X,260,4,263,0,0,-8.16,5.49,-3.678538462,1.075595273
+Position2.xlsx,Our Subject,Y,260,4,263,0,0,-20.08,5.49,0.007384615,2.787995517
+Position2.xlsx,Our Subject,Z,260,4,263,0,0,1.37,20.04,10.09488462,1.119096948
+Position2.xlsx,E- leg,X,259,4,262,0,0,-13.81,-4.12,-7.044633205,0.874686744
+Position2.xlsx,E- leg,Y,259,4,262,0,0,0.55,5.3,2.869227799,0.626411725
+Position2.xlsx,E- leg,Z,259,4,262,0,0,4.16,16.79,8.805945946,0.972288604
