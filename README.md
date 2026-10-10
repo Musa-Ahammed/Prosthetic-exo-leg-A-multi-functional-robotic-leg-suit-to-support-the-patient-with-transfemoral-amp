@@ -12,6 +12,11 @@ The work was published at **IEEE TENCON 2023**. This repository brings together 
 
 *Mechanical design study from the team report. This is a CAD view of the design.*
 
+<img width="1240" height="671" alt="leg" src="https://github.com/user-attachments/assets/6180f328-d558-4075-b1ab-b7cf8bc8ba8c" />
+
+<img width="1172" height="606" alt="leg2" src="https://github.com/user-attachments/assets/434c16d3-1ecf-4eef-817e-ca5e9bc97562" />
+
+
 ## How the project works
 
 The published system uses motion and foot-loading information to guide knee and ankle movement.
